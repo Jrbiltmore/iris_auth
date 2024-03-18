@@ -1,3 +1,4 @@
+# Unique ID: c3fe9b8d-1bb6-49c4-873e-2c1f7212c673
 import cv2
 
 def reduce_noise(image: np.ndarray, kernel_size: Tuple[int, int] = (3, 3)) -> np.ndarray:
